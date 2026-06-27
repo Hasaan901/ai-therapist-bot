@@ -23,7 +23,7 @@ An emotion-aware chatbot that detects how a user feels from text and responds wi
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-therapist-bot.git
+git clone https://github.com/Hasaan901/ai-therapist-bot.git
 cd ai-therapist-bot
 ```
 
